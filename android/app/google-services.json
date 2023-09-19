@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "87594700751",
+    "project_id": "occupier-6276a",
+    "storage_bucket": "occupier-6276a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87594700751:android:46b9f7e4a6e7e5cbb80cba",
+        "android_client_info": {
+          "package_name": "com.occupier.occupier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87594700751-io25k7nvqk7g3pths9gk1a4sgoue0voc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAEd-1te62xrER81xDTu2TsABQhO7X_uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87594700751-io25k7nvqk7g3pths9gk1a4sgoue0voc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87594700751-rmlpedhp4ukigg475vgbhq49qc8sqb08.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.occupier.occupier"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
